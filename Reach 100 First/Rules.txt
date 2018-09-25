@@ -1,0 +1,17 @@
+You and Your Friend are playing a game : OlympicGame_1
+------------------------------------------------------
+Both of you start from 50. Use a coin (Head/Tails).
+-----------------------------------------------------
+Who can reach 100 first ? You or Your Friend ?
+-----------------------------------------------------
+You go +2 if it is Head and -1 if it is Tails.
+If you reach 100, you win !
+If you reach 0, you are out, lose !
+-----------------------------------------------------
+You may quit the game any time you want, it will show
+you your current level.
+-----------------------------------------------------
+The COIN toss is done by system, a random event.
+-----------------------------------------------------
+Best Of Luck. Let's Play !
+----------------------------------------------------
